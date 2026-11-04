@@ -1,4 +1,4 @@
-# mcp-agent-lab
+# mcp-agent-lab (version C) 
 
 Building an MCP-based LLM agent with evals, then deploying it to Kubernetes with CI and monitoring. (Work in progress.)
 
@@ -20,6 +20,3 @@ Requires Python 3.12 and [uv](https://docs.astral.sh/uv/).
 uv sync         # create the environment from uv.lock
 uv run pytest   # run the tests
 ```
-
-I'm B! hello world!
-I'm a staff member A and would like to edit this file :D
