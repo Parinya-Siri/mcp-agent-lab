@@ -20,3 +20,5 @@ Requires Python 3.12 and [uv](https://docs.astral.sh/uv/).
 uv sync         # create the environment from uv.lock
 uv run pytest   # run the tests
 ```
+
+I'm B! hello world!
