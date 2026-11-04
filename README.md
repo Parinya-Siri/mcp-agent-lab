@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # mcp-agent-lab (version C) 
+=======
+# mcp-agent-lab (version D)
+>>>>>>> efdded0 (docs: title D)
 
 Building an MCP-based LLM agent with evals, then deploying it to Kubernetes with CI and monitoring. (Work in progress.)
 
